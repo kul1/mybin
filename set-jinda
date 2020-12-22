@@ -1,0 +1,2 @@
+echo "gem 'jinda', '0.6.9'" >> Gemfile
+echo "gem 'jinda_adminlte'" >> Gemfile
