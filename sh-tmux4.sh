@@ -1,5 +1,4 @@
-tmux new-session \; \
-  setw -g base-index 1 \; \
+  set -g base-index 1 \; \
   setw -g pane-base-index 1 \; \
   send-keys 'vim' C-m \; \
   split-window -h  -p 65 \; \
