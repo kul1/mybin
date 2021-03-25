@@ -4,4 +4,6 @@ rails g jinda:install &&
 bundle &&
 rails g jinda:config &&
 rails jinda:seed &&
-env.sh 
+env.sh &&
+rails g jinda_adminlte:install &&
+rake tmp:cache:clear 

@@ -1,1 +1,1 @@
-cp ~/my-bin/social.env .env
+cp ~/mybin/social.env .env

@@ -1,1 +1,1 @@
-cp ~/my-bin/bt.env .env
+cp ~/mybin/bt.env .env
